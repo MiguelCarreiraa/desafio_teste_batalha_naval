@@ -1,0 +1,14 @@
+{
+  "name": "desafio_teste_batalha_naval",
+  "version": "1.0.0",
+  "description": "Casos de teste (TDD) em JavaScript para uma Batalha Naval com tabuleiro 10 x 10",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
